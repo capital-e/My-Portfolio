@@ -16,4 +16,39 @@ The objective of this project was to implement a centralized Security Informatio
 5. Incident Response: Enhanced skills in incident detection, investigation, and response processes through the use of centralized SIEM solution, contributing to improved security posture and resilience against cyber threats.
 
 # Outcomes
-Hello, I'm Jonathan, a dedicated cybersecurity professional with a passion for protecting organizations against cyber threats. With extensive experience in cybersecurity blue teaming, I bring a wealth of knowledge and expertise in defending networks, systems, and data from malicious actors. I am currently seeking new opportunities to leverage my skills and contribute to the security posture of a forward-thinking organization. My proactive approach to threat detection and incident response, combined with my commitment to continuous learning and improvement, make me a valuable asset in any cybersecurity team. I look forward to the opportunity to discuss how my background and capabilities align with the needs of your organization.
+1. Signed up for Elastic
+   ![1](https://github.com/capital-e/My-Portfolio/assets/48088449/d444b921-8761-429c-b9f3-ee5eb4dec67b)
+
+
+2. Kali Linux VM up and running via VirtualBox (Kali definitely has the best wallpapers, prove me wrong)
+   ![2](https://github.com/capital-e/My-Portfolio/assets/48088449/b924da2d-e434-4cd7-bd1e-906b3743bf62)
+
+
+3. Added an integration via Elastic Defend. Elastic Defend is set up to provide a complete EDR for my Kali Linux VM I will be linking.
+   ![3](https://github.com/capital-e/My-Portfolio/assets/48088449/2f11dc3f-ca62-4757-831d-2c7bd4e1cdbb)
+
+
+4. Successfully linked my Kali VM to Elastic Defend
+   ![4](https://github.com/capital-e/My-Portfolio/assets/48088449/39341b7f-9257-4a62-96e1-7baa99d9b220)
+   ![4 0](https://github.com/capital-e/My-Portfolio/assets/48088449/e565054f-bc1f-4392-84d9-3a5bba7faf3e)
+   ![4 1](https://github.com/capital-e/My-Portfolio/assets/48088449/77b38b25-e862-43dd-853d-e6def04f0b3e)
+
+
+5. I run NMAP to generate some logs, then run a query in the observability logs section in Elastic Stack
+   ![5](https://github.com/capital-e/My-Portfolio/assets/48088449/95caaead-324b-44f5-b5dd-5fe59326f386)
+
+
+6. Let’s visualize our logs on a chart, that’d be cool. Not the best graph lol but I like green
+    ![6](https://github.com/capital-e/My-Portfolio/assets/48088449/73d20137-4f22-474d-908b-a6730dbbe57c)
+
+
+7. Let’s create an alert to inform us whenever an nmap scan is run. I chose to isolate the VM as an action whenever the alert is triggered. That's a rapid incidence response right there lol.
+    ![7](https://github.com/capital-e/My-Portfolio/assets/48088449/c245c6a4-9bfc-43f0-9cef-84ceb69a16dd)
+
+
+8. After running some new nmap scans let’s check the outcome.
+   ![8](https://github.com/capital-e/My-Portfolio/assets/48088449/aab38f83-dfeb-4108-b981-32235972d09e)
+   ![8 1](https://github.com/capital-e/My-Portfolio/assets/48088449/713f0539-0a98-4874-a860-409b36546dbf)
+
+
+The lab successfully integrated Elastic Defend with a Kali Linux VM, enhancing cybersecurity monitoring and incident response. Key achievements include setting up Elastic Defend, linking the Kali VM, running NMAP to generate logs, querying logs in Elastic Stack, visualizing data on a chart, and creating alerts for NMAP scans. This proactive defense strategy enables real-time visibility, centralized log management, rapid incident response, and strengthens overall security posture against potential threats.
