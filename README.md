@@ -9,9 +9,9 @@ Hello, I'm Jonathan, a dedicated cybersecurity professional with a passion for p
 # Project Overview 
 |                  Project                   |                    Skills                  |            Tools         |                              Link                               |
 | ------------------------------------------ | ------------------------------------------ | ------------------------ | --------------------------------------------------------------- |
-| Live Cyber Attacks of the World (Honeypot) | Cloud Computing, Log Analysis, Scriptin... | Azure, PowerShell, RDP.. |                                                                 |
+| Live Cyber Attacks of the World (Honeypot) | Cloud Computing, Log Analysis, Scriptin... | Azure, PowerShell, RDP.. | https://github.com/capital-e/My-Portfolio/blob/main/Project1.md |
 |        Explore The Vulnerabilities         | Vulnerability Assessment, Network Traff... | Metasploitable 2, Kali.. |                                                                 |
-|         Centralized Visuals (SIEM)         | Log management, Incident Response, Aler... | Elastic Stack SIEM, Ka.. | https://github.com/capital-e/My-Portfolio/blob/main/Project3.md |
+|         Centralized Visuals (SIEM)         | Log Management, Incident Response, Aler... | Elastic Stack SIEM, Ka.. | https://github.com/capital-e/My-Portfolio/blob/main/Project3.md |
 
 
 # Certifications
