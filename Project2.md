@@ -43,7 +43,7 @@ The objective of this project was to create a hands-on learning environment for 
 ![5 1](https://github.com/capital-e/My-Portfolio/assets/48088449/f37c436e-a9d4-4afb-9493-7914e3c03c3d)
 
 
-6. Next we will exploit Telnet. We will use the same username file and password file to exploit this. Basically, it is the same process with ssh. Note that I used Wireshark in this section to capture traffic while I used the command “Telnet 10.0.1.5” and inputted some credentials. These credentials appeared as clear text in the packet capture file. I did this just for practice and it did not play a role in successfully exploiting this protocol which is why I did not include wireshark screenshots.
+6. Next we will exploit Telnet. We will use the same username file and password file to exploit this. Basically, it is the same process with ssh. Note that I used Wireshark in this section to capture traffic while I used the command “Telnet 10.0.1.6” and inputted some credentials. These credentials appeared as clear text in the packet capture file. I did this just for practice and it did not play a role in successfully exploiting this protocol which is why I did not include wireshark screenshots.
 ![6](https://github.com/capital-e/My-Portfolio/assets/48088449/920717e2-b3df-4243-86cd-8b78e1c9cec1)
 
 
