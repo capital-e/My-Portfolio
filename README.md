@@ -4,7 +4,7 @@ Get to know my interests.
 
 
 # Jonathan Nutsugah Portfolio
-Hello, I'm Jonathan, a dedicated cybersecurity professional with a passion for protecting organizations against cyber threats. With extensive experience in cybersecurity blue teaming, I bring a wealth of knowledge and expertise in defending networks, systems, and data from malicious actors. I am currently seeking new opportunities to leverage my skills and contribute to the security posture of a forward-thinking organization. My proactive approach to threat detection and incident response, combined with my commitment to continuous learning and improvement, make me a valuable asset in any cybersecurity team. I look forward to the opportunity to discuss how my background and capabilities align with the needs of your organization.
+Hello, I'm Jonathan, an IT Professional with a strong foundation in networking, cybersecurity, and cloud computing, with a special focus on securing digital infrastructure across these domains. Experienced in designing and managing secure cloud environments, implementing robust network architectures, and applying cybersecurity best practices to protect systems and data. Passionate about building resilient, scalable, and secure IT solutions to support business growth and continuity, I look forward to the opportunity to discuss how my background and capabilities align with the needs of your organization.
 
 # Project Overview 
 |                  Project                   |                    Skills                  |            Tools         |                              Link                               |
@@ -19,3 +19,5 @@ Hello, I'm Jonathan, a dedicated cybersecurity professional with a passion for p
 | --------------------  | -------------------------------------- | ------------------------------------------------------------------------------| 
 |   CompTIA Security+   |            17th/May/2023               | https://www.credly.com/badges/01b197d4-ab29-4e45-9e8b-517457224f47/public_url | 
 |         CCNA          |            29th/Mar/2022               | https://www.credly.com/badges/73a741f0-ba0d-49e8-9f43-e57a002f41fd/public_url |
+|       AWS CCP         |            12th/May/2025               | https://www.credly.com/badges/990de788-8b77-43ce-9638-56a2fa0c5f09/public_url |
+
